@@ -1,2 +1,2 @@
 # GeoSampa
-Projeto SIG- Sistema de informações Geográfica 
+Projeto SIG- Sistema de informações Geográficas 
