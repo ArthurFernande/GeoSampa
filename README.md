@@ -3,5 +3,12 @@
 
 * Arthur Fernandes
 * Débora Ferreira
-* Lucas  Aires
+* Lucas Aires
 * Ronnyldo Rodrigues 
+
+## Ferramentas utilizadas:
+
+* Postgres - Postgis
+* Tomcat
+* GeoServer
+* OpenLayers
