@@ -12,3 +12,4 @@
 * Tomcat
 * GeoServer
 * OpenLayers
+* Open Street Maps
