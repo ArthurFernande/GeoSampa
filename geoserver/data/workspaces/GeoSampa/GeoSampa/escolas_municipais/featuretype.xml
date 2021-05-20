@@ -1,0 +1,55 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-50513ff1:17986a309de:-7fd6</id>
+  <name>escolas_municipais</name>
+  <nativeName>escolas_municipais</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-50513ff1:17986a309de:-7ffe</id>
+  </namespace>
+  <title>escolas_municipais</title>
+  <keywords>
+    <string>features</string>
+    <string>escolas_municipais</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;RSRGD2000&quot;, &#xd;
+  DATUM[&quot;Ross Sea Region Geodetic Datum 2000&quot;, &#xd;
+    SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], &#xd;
+    TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;6764&quot;]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;4764&quot;]]</nativeCRS>
+  <srs>EPSG:4764</srs>
+  <nativeBoundingBox>
+    <minx>-52.28564453125</minx>
+    <maxx>-44.15848159790039</maxx>
+    <miny>-25.08177947998047</miny>
+    <maxy>-19.847036361694336</maxy>
+    <crs>EPSG:4764</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-52.28564453125</minx>
+    <maxx>-44.15848159790038</maxx>
+    <miny>-25.081779498160543</miny>
+    <maxy>-19.84703637196326</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-50513ff1:17986a309de:-7ffd</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

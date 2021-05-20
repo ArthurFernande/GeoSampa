@@ -1,0 +1,17 @@
+<layer>
+  <name>benstombados</name>
+  <id>LayerInfoImpl-50513ff1:17986a309de:-7fe3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdd</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-50513ff1:17986a309de:-7fe4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-05-19 22:34:03.766 UTC</dateCreated>
+  <dateModified>2021-05-20 00:26:07.859 UTC</dateModified>
+</layer>

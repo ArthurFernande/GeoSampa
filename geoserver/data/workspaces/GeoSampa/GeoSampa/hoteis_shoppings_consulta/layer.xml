@@ -1,0 +1,17 @@
+<layer>
+  <name>hoteis_shoppings_consulta</name>
+  <id>LayerInfoImpl-50513ff1:17986a309de:-7a4c</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fde</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-50513ff1:17986a309de:-7a4d</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-05-20 01:58:43.888 UTC</dateCreated>
+  <dateModified>2021-05-20 02:00:04.485 UTC</dateModified>
+</layer>

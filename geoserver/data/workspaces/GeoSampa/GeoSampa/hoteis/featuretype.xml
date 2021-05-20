@@ -1,0 +1,55 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-50513ff1:17986a309de:-7fcc</id>
+  <name>hoteis</name>
+  <nativeName>hoteis</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-50513ff1:17986a309de:-7ffe</id>
+  </namespace>
+  <title>hoteis</title>
+  <keywords>
+    <string>features</string>
+    <string>hoteis</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;RSRGD2000&quot;, &#xd;
+  DATUM[&quot;Ross Sea Region Geodetic Datum 2000&quot;, &#xd;
+    SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], &#xd;
+    TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;6764&quot;]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;4764&quot;]]</nativeCRS>
+  <srs>EPSG:4764</srs>
+  <nativeBoundingBox>
+    <minx>-51.56980514526367</minx>
+    <maxx>-40.003883361816406</maxx>
+    <miny>-24.530994415283203</miny>
+    <maxy>-16.092761993408203</maxy>
+    <crs>EPSG:4764</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-51.569805145263665</minx>
+    <maxx>-40.003883361816406</maxx>
+    <miny>-24.530994432568562</miny>
+    <maxy>-16.092761999209554</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-50513ff1:17986a309de:-7ffd</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

@@ -1,0 +1,54 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-50513ff1:17986a309de:-7f36</id>
+  <name>escolas_consulta</name>
+  <nativeName>escolas_consulta</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-50513ff1:17986a309de:-7ffe</id>
+  </namespace>
+  <title>escolas_estaduais_consulta</title>
+  <keywords>
+    <string>features</string>
+    <string>escolas_estaduais_consulta</string>
+  </keywords>
+  <srs>EPSG:4764</srs>
+  <nativeBoundingBox>
+    <minx>-1.0</minx>
+    <maxx>0.0</maxx>
+    <miny>-1.0</miny>
+    <maxy>0.0</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-1.0</minx>
+    <maxx>0.0</maxx>
+    <miny>-0.9999999999687986</miny>
+    <maxy>0.0</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="JDBC_VIRTUAL_TABLE">
+      <virtualTable>
+        <name>escolas_consulta</name>
+        <sql>select e.nm_complet, e.ds_enderec, e.complement, e.numero&#xd;
+from escolas_estaduais e, municipios p&#xd;
+where p.nm_mun = &apos;São Paulo&apos; AND ST_Within(e.geom, p.geom)
+</sql>
+        <escapeSql>false</escapeSql>
+      </virtualTable>
+    </entry>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-50513ff1:17986a309de:-7ffd</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

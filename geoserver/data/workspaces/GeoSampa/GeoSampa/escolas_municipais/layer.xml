@@ -1,0 +1,16 @@
+<layer>
+  <name>escolas_municipais</name>
+  <id>LayerInfoImpl-50513ff1:17986a309de:-7fd5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-50513ff1:17986a309de:-7fd6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-05-19 22:35:21.939 UTC</dateCreated>
+</layer>

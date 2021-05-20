@@ -1,0 +1,17 @@
+<layer>
+  <name>shopping</name>
+  <id>LayerInfoImpl-50513ff1:17986a309de:-7f9b</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe1</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-50513ff1:17986a309de:-7f9c</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-05-19 22:40:32.758 UTC</dateCreated>
+  <dateModified>2021-05-19 22:45:28.200 UTC</dateModified>
+</layer>

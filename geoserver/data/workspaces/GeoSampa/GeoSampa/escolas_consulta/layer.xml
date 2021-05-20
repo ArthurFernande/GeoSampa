@@ -1,0 +1,18 @@
+<layer>
+  <name>escolas_consulta</name>
+  <id>LayerInfoImpl-50513ff1:17986a309de:-7f35</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7ff2</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-50513ff1:17986a309de:-7f36</id>
+  </resource>
+  <opaque>true</opaque>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-05-20 01:40:08.170 UTC</dateCreated>
+  <dateModified>2021-05-20 01:56:43.846 UTC</dateModified>
+</layer>
