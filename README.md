@@ -10,6 +10,9 @@
 
 * Postgres - Postgis
 * Tomcat
+* JQuery
+* Bootstrap
+* LayerSwitcher
 * GeoServer
 * OpenLayers
 * Open Street Maps
