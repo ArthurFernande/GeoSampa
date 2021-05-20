@@ -1,4 +1,6 @@
---cria um buffer nas mesoregiões que tem um perimetro menor igual a 500. 
+--cria um buffer nas mesoregiões que tem um perimetro menor ou igual a 500. 
 
-select st_buffer(geom, 100, 'quad_segs=8') from mesoregioes
-where perimetro_ <= 500
+select st_buffer(geom, 100, 'quad_segs=8') 
+from mesorregioes m
+where st_perimeter(m.geom) <= 500
+
