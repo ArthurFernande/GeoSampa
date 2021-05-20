@@ -1,4 +1,4 @@
---Todas as rodovias federais que interseptam a capital
+--Todas as rodovias federais que interceptam a capital
 
 select rf.cod_rodo_1, rf.rod_desc_1
 from rodovias_federais rf, municipios m
